@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JogoDaVelhaMP 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/wagne/Desktop/JogoDaVelhaMP/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JogoDaVelhaMP 1.0 API'
+src
+src.network
+src.network.threads
+visual
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java/src/GameEventListener.java'
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java/src/Jogo.java'
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java/src/network/NetworkClient.java'
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java/src/network/NetworkServer.java'
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java/src/network/threads/ClientThread.java'
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java/src/network/threads/ServerThread.java'
+'C:/Users/wagne/Desktop/JogoDaVelhaMP/src/main/java/visual/JogoDaVelha.java'
+C:\Users\wagne\Desktop\JogoDaVelhaMP\src\main\java = 1629509561154
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\allclasses-frame.html = 1629849353039
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\allclasses-noframe.html = 1629849353041
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\constant-values.html = 1629849352951
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\deprecated-list.html = 1629849353037
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\help-doc.html = 1629849353047
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\index-all.html = 1629849353034
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\index.html = 1629849353042
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\overview-frame.html = 1629849352915
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\overview-summary.html = 1629849353044
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\overview-tree.html = 1629849353021
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\package-list = 1629849352913
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\script.js = 1629849353052
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\serialized-form.html = 1629849352964
+C:\Users\wagne\Desktop\JogoDaVelhaMP\target\apidocs\stylesheet.css = 1629849353049

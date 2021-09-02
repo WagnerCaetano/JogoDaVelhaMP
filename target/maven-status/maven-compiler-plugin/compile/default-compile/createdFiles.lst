@@ -1,0 +1,8 @@
+visual\JogoDaVelha.class
+src\network\NetworkClient.class
+src\network\NetworkServer.class
+src\Jogo.class
+src\GameEventListener.class
+src\network\threads\ClientThread.class
+src\network\threads\ServerThread.class
+visual\JogoDaVelha$1.class
